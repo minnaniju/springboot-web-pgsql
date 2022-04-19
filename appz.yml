@@ -17,7 +17,7 @@ deploy:
   
 properties:
   title: Spring Boot Web - Postgres HA Demo
-  nano: 95
+  nano: 96
   
   #Primary Database
   PRIMARY_DB_HOST: pgconnect-0-2
